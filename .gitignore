@@ -1,0 +1,45 @@
+# ================================
+# JAVA SPECIFIC
+# ================================
+*.class          # Compiled Java classes
+*.jar            # Java archives
+*.war            # Web archives
+*.ear            # Enterprise archives
+
+# ================================
+# VS CODE FILES
+# ================================
+.vscode/         # VS Code settings
+*.code-workspace # Workspace files
+
+# ================================
+# OPERATING SYSTEM FILES
+# ================================
+.DS_Store        # macOS
+Thumbs.db        # Windows
+desktop.ini      # Windows
+
+# ================================
+# PROJECT SPECIFIC
+# ================================
+/bin/            # Compiled output
+/target/         # Maven target
+/build/          # Build output
+*.log            # Log files
+*.tmp            # Temporary files
+*.temp           # Temporary files
+
+# ================================
+# IDE FILES
+# ================================
+*.iml            # IntelliJ IDEA
+*.ipr            # IntelliJ IDEA
+*.iws            # IntelliJ IDEA
+.idea/           # IntelliJ IDEA
+
+# ================================
+# BACKUP FILES
+# ================================
+*.bak            # Backup files
+*.backup         # Backup files
+~*               # Temporary backup files
